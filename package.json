@@ -1,0 +1,18 @@
+{
+  "name": "extend-encoding-selector",
+  "main": "./lib/extend-encoding-selector",
+  "version": "1.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "extend-encoding-selector:TCVN"
+  },
+  "repository": "https://github.com/xxxg0001/extend-encoding-selector",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
