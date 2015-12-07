@@ -1,5 +1,5 @@
 # extend-encoding-selector package
 
-A short description of your package.
+A package to support other encoding like TCVN 
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](https://github.com/xxxg0001/extend-encoding-selector/blob/master/screenshot.png)
