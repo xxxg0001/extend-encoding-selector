@@ -1,8 +1,8 @@
 {
   "name": "extend-encoding-selector",
   "main": "./lib/extend-encoding-selector",
-  "version": "1.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.1",
+  "description": "A package to support other encoding like TCVN",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "extend-encoding-selector:TCVN"
