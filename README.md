@@ -1,4 +1,4 @@
-# extend-encoding-selector package
+# extend-encoding-selector package for atom
 
 A package to support other encoding like TCVN 
 
